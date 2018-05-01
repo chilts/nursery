@@ -1,0 +1,22 @@
+{
+  "name": "nursery",
+  "version": "0.1.0",
+  "description": "A structured replacement for go statements.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chilts/nursery.git"
+  },
+  "keywords": [
+    "nursery"
+  ],
+  "author": "Andrew Chilton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chilts/nursery/issues"
+  },
+  "homepage": "https://github.com/chilts/nursery#readme"
+}
